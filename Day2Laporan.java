@@ -5,12 +5,12 @@ public class Solution
     public static void main(String[] args)
     {
         Scanner scan = new Scanner (System.in);
-        int a= scan .nextInt();
-        int b= scan .nextInt();
-        int c= scan .nextInt(a);
+        int m= scan .nextInt();
+        int r= scan .nextInt();
+        int s= scan .nextInt(a);
         
-        System.out.println(a);
-        System.out.println(b);
-        System.out.println(c);
+        System.out.println(m);
+        System.out.println(r);
+        System.out.println(s);
     }
 }
