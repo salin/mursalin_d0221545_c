@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-//Nur halisah Day34 Java Map
+
 class Solution{
     public static void main(String []argh)
     {
