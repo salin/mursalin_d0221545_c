@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-//Nur halisah Day41 Java BitSet
+
 public class Solution {
 
     public static void main(String[] args) {
