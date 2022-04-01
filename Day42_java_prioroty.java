@@ -3,7 +3,7 @@ import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
-//Nur halisah Day42 Java Priority
+
 class Student{
    private int token;
    private String fname;
