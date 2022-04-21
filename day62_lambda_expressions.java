@@ -1,4 +1,4 @@
-package rascoding;
+package mursalin;
 
 import java.io.*;
 import java.util.*;
